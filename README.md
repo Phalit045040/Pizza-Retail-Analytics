@@ -10,9 +10,10 @@ A comprehensive project to process, analyze, and visualize pizza retail data usi
 2. [Steps for Data Input and Processing](#steps-for-data-input-and-processing)
 3. [Technologies Used](#technologies-used)
 4. [Objectives](#Objectives)
-5. [Managerial Insights](#managerial-insights)
-6. [How to Use the Project](#how-to-use-the-project)
-7. [License](#license)
+5. [Dashboard](#Dashboard)
+6. [Managerial Insights](#managerial-insights)
+7. [How to Use the Project](#how-to-use-the-project)
+8. [License](#license)
 
 ---
 
@@ -226,7 +227,10 @@ This objective is supported by a scalable analytics pipeline and detailed manage
 ![1](https://github.com/user-attachments/assets/8e41ad22-8814-4809-8287-4e63fd93e7e3)
 
 ![2](https://github.com/user-attachments/assets/80a5c750-b645-4ff6-af65-41dd1713118d)
-file:///home/ashok/Pictures/3.jpg
+
+
+![3](https://github.com/user-attachments/assets/65c07bc9-c171-4b11-8058-b9c6aad0b574)
+
 
 ## Managerial Insights
 
