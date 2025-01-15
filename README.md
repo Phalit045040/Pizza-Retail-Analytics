@@ -221,6 +221,13 @@ The primary objective of this project is to analyze and interpret pizza retail s
 This objective is supported by a scalable analytics pipeline and detailed managerial recommendations derived from comprehensive data analysis.
 
 ---
+
+## Dashboard 
+![1](https://github.com/user-attachments/assets/8e41ad22-8814-4809-8287-4e63fd93e7e3)
+
+![2](https://github.com/user-attachments/assets/80a5c750-b645-4ff6-af65-41dd1713118d)
+file:///home/ashok/Pictures/3.jpg
+
 ## Managerial Insights
 
 ### Overall Insights & Implications
